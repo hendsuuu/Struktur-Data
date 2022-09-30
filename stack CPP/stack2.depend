@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664437525 source:c:\users\sapyy\documents\kuliah\smt 3\strukdat\stack2\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<unistd.h>
+	<ctime>
+	<time.h>
+	<dos.h>
+
