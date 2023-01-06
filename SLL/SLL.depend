@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666149285 source:c:\users\sapyy\documents\kuliah\smt 3\strukdat\sll\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
